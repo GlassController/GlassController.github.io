@@ -4,7 +4,7 @@ title: Code of conduct
 permalink: /codeofconduct/
 ---
 
-# Welcome to the Glass Controller
+# Welcome to Glass Controller
 Firstly, welcome to the Glass Controller!
 While you might feel a little anxious getting to know everyone around here. Don’t worry, most of the time we don’t bite. However, in order to make your life a little easier in terms of finding your feet. Here are some things to keep in mind while you’re here.
 
